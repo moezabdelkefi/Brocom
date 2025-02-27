@@ -64,6 +64,7 @@ import Contact from './components/pages/contact'
 import Dashboard from './components/pages/dashboard'
 import Faq from './components/pages/faq'
 
+
 // Blog Pages
 import RightSide from './components/blogs/right-sidebar'
 import Details from './components/blogs/details'
