@@ -5,7 +5,7 @@
   "homepage": "http://react.pixelstrap.com/",
   "basename": "/",
   "dependencies": {
-    "@babel/core": "7.1.0",
+    "@babel/core": "^7.26.9",
     "@svgr/webpack": "2.4.1",
     "babel-core": "7.0.0-bridge.0",
     "babel-jest": "23.6.0",
